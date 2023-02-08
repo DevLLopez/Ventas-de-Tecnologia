@@ -1,0 +1,27 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+.contenedor{
+    width: 1200px;
+    margin: 0 auto;
+}  
+
+/*==== Header==== */
+
+.header__inicio{
+    background-color: ghostwhite;
+}
+.header__flex{
+    display: flex;
+    justify-content: space-between;
+    
+    align-items: center;
+}
+.title__intro{
+    font-size: 20px;
+}
