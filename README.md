@@ -1,2 +1,2 @@
 # Ventas-de-Tecnologia
-Desarrollando una pagina de ventas en tecnologia.
+Desarrollando de prueba pagina de ventas en tecnologia.
